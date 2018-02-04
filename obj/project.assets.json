@@ -13129,11 +13129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WEB\\Sites\\VSCode\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+      "projectUniqueName": "e:\\WEB\\Sites\\VSCode\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
       "projectName": "AspNetCoreTodo",
-      "projectPath": "E:\\WEB\\Sites\\VSCode\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+      "projectPath": "e:\\WEB\\Sites\\VSCode\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
       "packagesPath": "C:\\Users\\oleg_\\.nuget\\packages\\",
-      "outputPath": "E:\\WEB\\Sites\\VSCode\\AspNetCoreTodo\\obj\\",
+      "outputPath": "e:\\WEB\\Sites\\VSCode\\AspNetCoreTodo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

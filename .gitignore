@@ -643,3 +643,6 @@ ASALocalRun/
 # MSBuild Binary and Structured Log
 
 *.binlog
+obj/AspNetCoreTodo.csproj.nuget.cache
+obj/AspNetCoreTodo.csproj.nuget.g.props
+obj/project.assets.json
